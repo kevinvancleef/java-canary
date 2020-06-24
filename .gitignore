@@ -1,0 +1,21 @@
+/target/
+
+## eclipse specific ##
+.classpath
+.project
+.wtpmodules
+.settings
+.checkstyle
+
+## Intellij ##
+.idea/
+*.iml
+*.iws
+
+## java specific ##
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
